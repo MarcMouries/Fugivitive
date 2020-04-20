@@ -1,4 +1,3 @@
-var treeData = 
 [
     {
       "name": "Fugitive Joe Smith",
@@ -103,4 +102,3 @@ var treeData =
       ]
     }
   ]
-;
