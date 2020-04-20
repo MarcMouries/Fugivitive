@@ -1,0 +1,106 @@
+var treeData = 
+[
+    {
+      "name": "Fugitive Joe Smith",
+      "parent": "null",
+      "children": [
+        {
+          "name": "Known Addresses",
+          "children": [
+            {
+              "name": "179 Walnut St, Douglas, MA 01516",
+              "children": [
+                {
+                  "name": "Son of Fugitive"
+                },
+                {
+                  "name": "Daughter of Fugitive"
+                }
+              ]
+            },
+            {
+              "name": "2225 Lawson Ln, Santa Clara, CA 95054",
+              "children": [
+                {
+                  "name": "Marc Mouries"
+                },
+                {
+                  "name": "Fred Luddy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RAP Sheet",
+          "children": [
+            {
+              "name": "Summary",
+              "children": [
+                {
+                  "name": "Caution Info",
+                  "children": [
+                    {
+                      "name": "Known to carry a weapon."
+                    },
+                    {
+                      "name": "Has threatened police officer and\nfought with fellow inmates while incarcerated."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Jimmy Fiasco"
+            }
+          ]
+        },
+        {
+          "name": "Alias",
+          "children": [
+            {
+              "name": "Jim Blunder"
+            },
+            {
+              "name": "Jimmy Fiasco",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Field Interviews",
+          "children": [
+            {
+              "name": "02/04/2020",
+              "children": [
+                {
+                    "name": "Location",
+                  "children": [
+                    { "name": "name: Starbucks"},
+                    { "name": "address: 18025 Ventura Blvd, Encino, Encino, CA"}
+                                 
+
+                    ]                  
+                  },
+                {
+                  "name": "Vehicle",
+                  "children": [
+                        {
+                            "name": "Model"
+                          },
+                          {
+                            "name": "Registered to"
+                          }
+                  ]
+                }
+              ]
+            },
+            {
+                "name": "10/19/2018"
+              }
+          ]
+        }
+      ]
+    }
+  ]
+;
